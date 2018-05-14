@@ -1,0 +1,11 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "curso de js com TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ygor Luiz <yluiz684@gmail.com> (https://github.com/JhonMaya)",
+  "license": "MIT"
+}
